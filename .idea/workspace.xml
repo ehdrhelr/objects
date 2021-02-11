@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4df0df8e-0632-42ee-b79b-14e65aa8f4d8" name="Default Changelist" comment="set default classes for ticket selling app">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticket/Audience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticket/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticket/Invitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticket/Theater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticket/Ticket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticket/TicketOffice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ticket/TicketSeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ticket/Theater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ticket/Theater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ticket/TicketSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ticket/TicketSeller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +46,6 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612950124673</updated>
-      <workItem from="1612950125811" duration="1947000" />
+      <workItem from="1612950125811" duration="2504000" />
+      <workItem from="1613034627060" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1612950272485</created>
@@ -81,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612950272485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="set default classes for ticket selling app">
+      <created>1612956403664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612956403664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +87,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project" />
