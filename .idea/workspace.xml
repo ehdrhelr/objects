@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4df0df8e-0632-42ee-b79b-14e65aa8f4d8" name="Default Changelist" comment="set default classes for ticket selling app">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="4df0df8e-0632-42ee-b79b-14e65aa8f4d8" name="Default Changelist" comment="Theater의 의존성을 낮추고 TicketSeller의 자율성을 높인다">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ticket/Theater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ticket/Theater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ticket/Audience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ticket/Audience.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ticket/TicketSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ticket/TicketSeller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,8 @@
       <option name="presentableId" value="Default" />
       <updated>1612950124673</updated>
       <workItem from="1612950125811" duration="2504000" />
-      <workItem from="1613034627060" duration="661000" />
+      <workItem from="1613034627060" duration="1203000" />
+      <workItem from="1613107864272" duration="700000" />
     </task>
     <task id="LOCAL-00001" summary="init project">
       <created>1612950272485</created>
@@ -71,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612956403664</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Theater의 의존성을 낮추고 TicketSeller의 자율성을 높인다">
+      <created>1613036064363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613036064363</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project" />
     <MESSAGE value="set default classes for ticket selling app" />
-    <option name="LAST_COMMIT_MESSAGE" value="set default classes for ticket selling app" />
+    <MESSAGE value="Theater의 의존성을 낮추고 TicketSeller의 자율성을 높인다" />
+    <option name="LAST_COMMIT_MESSAGE" value="Theater의 의존성을 낮추고 TicketSeller의 자율성을 높인다" />
   </component>
 </project>
